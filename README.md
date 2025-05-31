@@ -6,8 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakhar-ccxxi" alt="prakhar-ccxxi" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prakhar jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakhar jaiswal" height="30" width="40" /></a>
+<p align="left"> 
+<a href="https://linkedin.com/in/prakhar-jaiswal-42a540248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakhar jaiswal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/prakhar-jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prakhar-jaiswal" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/prakharjat41q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prakharjat41q" height="30" width="40" /></a>
 </p>
